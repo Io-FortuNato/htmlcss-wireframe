@@ -5,8 +5,10 @@
 }
 
 #inizio {
-    color: brown;
+    padding-left: 8px;
 }
+
+#inizio {padding-bottom: 8px; }
 
 #body {
     width: 512px;
@@ -29,7 +31,7 @@
 }
 
 .soprasotto {
-    margin-left: 700px;
+    margin-left: 32px;
 }
 
 .soprasotto {
@@ -49,7 +51,7 @@
 }
 
 .centro {
-    margin-left: 700px;
+    margin-left: 32px;
 }
 
 .centro {
@@ -59,6 +61,48 @@
     border: 2px solid
 }
 
+#corpo {
+    border-left: 0px;
+}
+
+#corpo {
+    border-right: 0px;
+}
+
 .soprasotto {
     margin-bottom: 12px;
 }
+
+.centro {
+    padding-left: 8px;
+}
+
+.centro {
+    padding-top: 12px;
+}
+
+.centro {
+    padding-right: 12px;
+}
+
+.soprasotto {
+    padding-right: 12px;
+}
+
+.soprasotto {
+    padding-left: 8px;
+}
+
+.soprasotto {
+    padding-top: 12px;
+}
+
+#made {
+    padding-left: 16px;
+}
+
+#made {
+    padding-bottom: 16px;
+}
+
+#made {padding-top: 12px;}
