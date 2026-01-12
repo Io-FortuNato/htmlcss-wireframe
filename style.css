@@ -12,46 +12,53 @@
     width: 512px;
 }
 
-.nuovo {
+.soprasotto {
     border: 1px solid
 }
 
-.nuovo {
+.soprasotto {
     margin-top: 16px;
 }
 
-.nuovo {
+.soprasotto {
     padding-bottom: 16px;
 }
 
-.nuovo{
+.soprasotto {
     width: 250px;
 }
 
-.nuovo {
+.soprasotto {
     margin-left: 700px;
 }
 
-.nuovo {
-    border: 1px solid
+.soprasotto {
+    border: 2px solid
 }
 
-.vecchio {
+.centro {
     margin-top: 16px;
 }
 
-.vecchio {
+.centro {
     padding-bottom: 16px;
 }
 
-.vecchio{
+.centro {
     width: 250px;
 }
 
-.vecchio {
+.centro {
     margin-left: 700px;
 }
 
-.vecchio {
-    border: 1px solid
+.centro {
+    border: 2px solid
+}
+#corpo {
+    border: 2px solid
+}
+
+.soprasotto {
+    margin-bottom: 12px;
 }
