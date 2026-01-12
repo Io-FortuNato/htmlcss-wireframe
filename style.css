@@ -1,1 +1,17 @@
-#inizio{color: brown;}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#inizio {
+    color: brown;
+}
+
+#body {
+    width: 512px;
+}
+
+.nuovo {
+    border: 1px solid
+}
